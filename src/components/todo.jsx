@@ -41,7 +41,7 @@ function Ttodo() {
             <div>
                 <h1 className="">Todo List</h1>
                 <input className="bg-slate-200 m-3 px-4 py-1 rounded-lg"
-                    type="text"
+                    type="text"  
                     name="todo"
                     placeholder="Enter a task"
                     value={Name}
