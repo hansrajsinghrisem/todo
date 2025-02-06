@@ -76,7 +76,7 @@ function Ttodo() {
                 setEditname={setEditname}
                 Editdescription={Editdescription}
                 setEditdescription={setEditdescription}
-                handleUpdateUser={handleUpdateUser}
+                handleUpdateUser={handleUpdateUser} 
             />
         </div>
     );
